@@ -14,7 +14,7 @@ html,body{
 }
 ::selection{
     color: #fff;
-    background: #007bff;
+    background: #2f95d8;
 }
 ::-webkit-scrollbar{
     width: 3px;
@@ -24,10 +24,10 @@ html,body{
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb{
-    background: #ddd;
+    background: #42414100;
 }
 ::-webkit-scrollbar-thumb:hover{
-    background: #ccc;
+    background: #42414100;
 }
 .wrapper{
     width: 370px;
@@ -45,7 +45,7 @@ html,body{
     font-weight: 500;
     line-height: 60px;
     text-align: center;
-    border-bottom: 1px solid #006fe6;
+    border-bottom: 1px solid #00a5e6;
     border-radius: 5px 5px 0 0;
 }
 .wrapper .form{
